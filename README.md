@@ -1,0 +1,2 @@
+# iDiary
+# A simple Diary.
