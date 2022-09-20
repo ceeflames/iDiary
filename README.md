@@ -1,3 +1,2 @@
 # iDiary
-# A simple Diary
-# Built on Django.
+# A simple Diary Built on Django !!!!
